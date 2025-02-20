@@ -1,0 +1,5 @@
+SENSOR_TYPE = "DHT22"
+SENSOR_PIN = 4
+UPDATE_INTERVAL = 2  # Seconds
+LOG_FILE = "weather_data.csv"
+DISPLAY_TYPE = "OLED"
